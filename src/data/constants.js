@@ -153,9 +153,9 @@ export const projects = [
     image:
       "https://scrape-it.cloud/assets/cache_image/assets/components/images/blog/web-scraping_1280x533_301.webp",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js",],
-    githubfrontend: "https://github.com/Anirutha/webScrapping-Ecommerce",
+    githubfrontend: "https://github.com/Anirutha/WebScrapping",
     githubbackend: "https://github.com/Anirutha/backend",
-    webapp: "https://master--beautiful-jalebi-253384.netlify.app/",
+    webapp: "https://legendary-hamster-ab52d7.netlify.app/",
   },
   {
     id: 3,
